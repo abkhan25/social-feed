@@ -107,7 +107,6 @@
 .social-feed-element{
     transition: 0.25s;
     -webkit-backface-visibility: hidden;
-    margin:-1px;
     margin-top:25px;
     background-color: #fff;
     color: #333;
